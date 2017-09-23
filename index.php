@@ -7,6 +7,5 @@
     </head>
     <body>
         <h1>This commit works</h1>
-        <h1><?php echo "This is PHP";?></h1>
     </body>
 </html>
