@@ -8,5 +8,6 @@
     </head>
     <body>
         <h1>Oncepixel web page</h1>
+        <h1><?php echo "Oncepixel web page";?></h1>
     </body>
 </html>
